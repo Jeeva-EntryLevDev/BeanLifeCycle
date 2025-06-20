@@ -1,4 +1,0 @@
-🧩 Problem 2: Email Service Injection
-
-Build a scenario where a NotificationService depends on an EmailService. 
-Apply the constructor injection method to wire the dependency using Spring annotations.
