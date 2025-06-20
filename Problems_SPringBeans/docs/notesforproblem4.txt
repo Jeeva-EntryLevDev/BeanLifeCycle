@@ -1,5 +1,0 @@
-🧩 Problem 4: Bean Scope Demo
-Create a Counter bean that increments a number each time it is used.
-Demonstrate the difference between singleton and prototype scope by retrieving it multiple times and printing the result.
-
-
